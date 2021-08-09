@@ -7,7 +7,7 @@ We do understand your concern that it really took some time to give you an updat
 - ***[put admission status here]***
   - *[elaborate details here]*
 
-CodePath will be sending updates every week after completion of application so we encourage everyone to check their emails regularly. We hope that we have answered your inquiry and if you have any other concerns, please do not hesitate to contact us anytime. Have a nice day!
+We had a number of excellent applications and we are indeed grateful that you chose to apply. We hope that we have answered your inquiry and if you have any other concerns, please do not hesitate to contact us anytime. Have a nice day!
 
 Best regards,
 
