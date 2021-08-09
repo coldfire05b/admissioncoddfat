@@ -11,7 +11,7 @@ Thank you for getting in touch regarding the status of your application.  Based 
 - [ ] ***Waitlist***                      
 - [ ] ***Admission Confirmation Required*** 
 
-We understand your concern since the process for admission usually takes 3 - 4 weeks. CodePath is sending updates every week after completion of application so we encourage everyone to check their emails regularly. We hope that we have answered your inquiry and if you have any other concerns, please feel free to contact us anytime. Have a nice day!
+We do understand your concern that it took some time since the process for admission usually takes 3 - 4 weeks. CodePath is sending updates every week after completion of application so we encourage everyone to check their emails regularly. We hope that we have answered your inquiry and if you have any other concerns, please feel free to contact us anytime. Have a nice day!
 
 Best regards,
 
