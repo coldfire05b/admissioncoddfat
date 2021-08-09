@@ -16,7 +16,7 @@ Have your pre-work project completed on/before August 21, 2021 and email your Gi
 
 📍[CODEPATH - Android Course Syllabus](https://courses.codepath.org/snippets/android_university/syllabus)
 
-We wish you all the best and we hope to see on our classes soon! Good luck!
+We wish you all the best and we hope to see in our classes! Good luck!
 
 Best regards,
 
