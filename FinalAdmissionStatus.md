@@ -8,9 +8,9 @@ We understand that you have put a lot of effort on the application process. Our 
 
 We encourage you to continually check our resources page to learn more and sign up for our mailing list for our future courses or virtual events that you might be interested in. You may also check our interview guide containing tips and guidelines that you might find helpful.
 
-:::info
+---
 :pushpin: [High Level Software Interview Guide](https://hackmd.io/@nesquena/HJN9k17sm?type=view)
-:::
+---
 
 We wish you best of luck in your endeavor. Have a nice day!
 
