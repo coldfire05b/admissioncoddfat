@@ -1,4 +1,4 @@
-Hi **[Name]***,
+Hi **[Name]**,
 
 Thank you for getting in touch regarding the status of your application. 
 
