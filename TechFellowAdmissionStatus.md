@@ -2,7 +2,7 @@ Hi,
 
 Thank you for getting in touch regarding the status of your application. 
 
-We do understand your concern that it really took some time to give you an update since the process for admission usually takes 3 - 4 weeks. Based on our records, your Tech Fellow admission status is:
+We do understand your concern that it really took some time to give you an update since the process for admission usually takes 3 - 4 weeks. Based on our records, your admission status is:
 
 - ***[put admission status here]***
   - *[elaborate details here]*
