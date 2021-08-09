@@ -1,4 +1,4 @@
-Hi,
+Hi **[Name]**,
 
 We are grateful for the time you spent on your application to CodePath. However, we regret to inform you that we cannot process your application due to the following reason/s:
 
