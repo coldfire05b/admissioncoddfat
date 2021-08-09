@@ -11,6 +11,10 @@ Here are the details of the applicant:
 | ------------ | ---- | -------------- |
 |*[Input ID number]* | *[Input Name]*| *[Input Type]* |
 
+I am hoping for your favorable and fast response regarding this matter. Thank you very much for your usual support! Have a nice day!
 
+Best regards,
+
+*Michael Carl*
 
 
