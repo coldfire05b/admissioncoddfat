@@ -2,8 +2,6 @@ Hi,
 
 Thank you for getting in touch regarding the status of your application.  Based on our records, your Tech Fellow admission status is:
 
-
-|=======================================|==========|
 | ***Ineligible***                      |          |
 | ***Reject***                          |          |
 | ***Pre-work pending***                |          |
